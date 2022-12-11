@@ -1,6 +1,6 @@
 # Customer Segmentation (K-Means Clustering) <br><br/>
 
-[![Twitter Badge](https://img.shields.io/badge/-@MBohunicka-1ca0f1?style=plastic&labelColor=1ca0f1&logo=kaggle&logoColor=white&link=https://www.kaggle.com/code/martinab/customer-segmentation-k-means-clustering?scriptVersionId=113557619]
+![kaggle](https://img.shields.io/badge/DataViz-tableau-informational?style=plastic&logo=kaggle&logoColor=white&color=045bab&link=https://www.kaggle.com/code/martinab/customer-segmentation-k-means-clustering?scriptVersionId=113557619) 
 
 ###Introduction
 Data for customer segmentation was obtained through membership cards of supermaket mall. We have some basic data about customers such as Customer ID, age, gender, annual income and spending score.
