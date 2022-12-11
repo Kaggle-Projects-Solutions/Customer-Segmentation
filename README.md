@@ -2,12 +2,14 @@
 
 ![kaggle](https://img.shields.io/badge/_-Open_in_Kaggle-informational?style=plastic&logo=kaggle&logoColor=white&color=045bab&link=https://www.kaggle.com/code/martinab/customer-segmentation-k-means-clustering?scriptVersionId=113557619) 
 
-###Introduction
+### Introduction
 Data for customer segmentation was obtained through membership cards of supermaket mall. We have some basic data about customers such as Customer ID, age, gender, annual income and spending score.
 
 Spending Score is something we assign to the customer based on our defined parameters like customer behavior and purchasing data.
 
-In this project we would like to identify the potential customer base for selling a new product. To do so we will be using Unsupervised Learning technique called KMeans Clustering. <br><br/>
+In this project we would like to identify the potential customer base for selling a new product. To do so we will be using Unsupervised Learning technique called KMeans Clustering. 
+
+Kaggle notebook provides not only the solution, but also explains the ideas behind K-Means Clustering. To view this, just click on the 'Open in Kaggle' button on the top of this page or within the kaggle code included in the repository. <br><br/>
 
 
 ### Targets
