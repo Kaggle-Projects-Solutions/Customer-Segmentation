@@ -17,7 +17,8 @@ Kaggle notebook provides not only the solution, but also explains the ideas behi
  1. Know how to achieve customer segmentation using machine learning algorithm (KMeans Clustering) in Python in simplest way.
  2. Identify who are our target customers with whom we can start marketing strategy easy to converse.
 
-Acknowledgements
+### Acknowledgements
+
 The source of data for this project is from Kaggle's Mall Customer Segmentation Data dataset. <br><br/>
 
 
